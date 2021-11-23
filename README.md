@@ -1,2 +1,2 @@
 # BigData
-my studing.
+my studying.
